@@ -8,9 +8,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Javier Scarione",
   "license": "ISC",
-    "devDependencies": {
-    "lite-server": "^2.3.0"
-  }
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviScarione/confusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaviScarione/confusion/issues"
+  },
+  "homepage": "https://github.com/JaviScarione/confusion#readme"
 }
